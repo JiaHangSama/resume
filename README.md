@@ -1,2 +1,3 @@
-# resume
-My resume
+#简历
+> 求职意向：PHP开发工程师
+> 电子邮箱：651295858@qq.com
